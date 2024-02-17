@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RBReport Version="1.0">
+  <Content>
+    <BlockLayout BlockType="Document" BlockSubType="Start" Name="Start">
+      <LayoutOptions>
+        <LayoutOption Type="Document">
+          <Values>
+            <Value Name="ExportType" Value="Pdf" />
+          </Values>
+        </LayoutOption>
+      </LayoutOptions>
+    </BlockLayout>
+    <BlockLayout BlockType="CoverPage" BlockName="Cover page">
+      <LayoutOptions>
+        <LayoutOption Type="CoverPage">
+          <Values />
+        </LayoutOption>
+        <LayoutOption Type="Layout">
+          <Values />
+        </LayoutOption>
+      </LayoutOptions>
+    </BlockLayout>
+    <BlockLayout BlockType="Chapter" BlockSubType="Start" BlockName="Chapter">
+      <Children>
+        <BlockLayout BlockType="Notes" BlockName="Notes">
+          <LayoutOptions>
+            <LayoutOption Type="Notes">
+              <Values />
+            </LayoutOption>
+            <LayoutOption Type="Layout">
+              <Values />
+            </LayoutOption>
+          </LayoutOptions>
+        </BlockLayout>
+      </Children>
+      <LayoutOptions>
+        <LayoutOption Type="Chapter">
+          <Values>
+            <Value Name="HeaderText1" Value="Case Summary" />
+          </Values>
+        </LayoutOption>
+        <LayoutOption Type="Layout">
+          <Values />
+        </LayoutOption>
+      </LayoutOptions>
+    </BlockLayout>
+    <BlockLayout BlockType="Chapter" BlockSubType="Start" BlockName="Chapter">
+      <Children>
+        <BlockLayout BlockType="Notes" BlockName="Notes">
+          <LayoutOptions>
+            <LayoutOption Type="Notes">
+              <Values>
+                <Value Name="HeaderText1" Value="Exhibit Identification" />
+              </Values>
+            </LayoutOption>
+            <LayoutOption Type="Layout">
+              <Values />
+            </LayoutOption>
+          </LayoutOptions>
+        </BlockLayout>
+        <BlockLayout BlockType="Picture" BlockName="Picture">
+          <LayoutOptions>
+            <LayoutOption Type="Picture">
+              <Values />
+            </LayoutOption>
+            <LayoutOption Type="Layout">
+              <Values />
+            </LayoutOption>
+          </LayoutOptions>
+        </BlockLayout>
+      </Children>
+      <LayoutOptions>
+        <LayoutOption Type="Chapter">
+          <Values>
+            <Value Name="HeaderText1" Value="Evidence Identification" />
+          </Values>
+        </LayoutOption>
+        <LayoutOption Type="Layout">
+          <Values />
+        </LayoutOption>
+      </LayoutOptions>
+    </BlockLayout>
+    <BlockLayout BlockType="Chapter" BlockSubType="Start" BlockName="Chapter">
+      <Children>
+        <BlockLayout BlockType="Notes" BlockName="Notes">
+          <LayoutOptions>
+            <LayoutOption Type="Notes">
+              <Values>
+                <Value Name="HeaderText1" Value="Forensic Hardware and Software" />
+              </Values>
+            </LayoutOption>
+            <LayoutOption Type="Layout">
+              <Values />
+            </LayoutOption>
+          </LayoutOptions>
+        </BlockLayout>
+      </Children>
+      <LayoutOptions>
+        <LayoutOption Type="Chapter">
+          <Values>
+            <Value Name="HeaderText1" Value="Forensic Workstation and Software" />
+          </Values>
+        </LayoutOption>
+        <LayoutOption Type="Layout">
+          <Values />
+        </LayoutOption>
+      </LayoutOptions>
+    </BlockLayout>
+    <BlockLayout BlockType="Chapter" BlockSubType="Start" BlockName="Chapter">
+      <Children>
+        <BlockLayout BlockType="Notes" BlockName="Notes">
+          <LayoutOptions>
+            <LayoutOption Type="Notes">
+              <Values>
+                <Value Name="HeaderText1" Value="Exhibit Research" />
+              </Values>
+            </LayoutOption>
+            <LayoutOption Type="Layout">
+              <Values />
+            </LayoutOption>
+          </LayoutOptions>
+        </BlockLayout>
+      </Children>
+      <LayoutOptions>
+        <LayoutOption Type="Chapter">
+          <Values>
+            <Value Name="HeaderText1" Value="Research" />
+          </Values>
+        </LayoutOption>
+        <LayoutOption Type="Layout">
+          <Values />
+        </LayoutOption>
+      </LayoutOptions>
+    </BlockLayout>
+    <BlockLayout BlockType="Chapter" BlockSubType="Start" BlockName="Chapter">
+      <Children>
+        <BlockLayout BlockType="Notes" BlockName="Notes">
+          <LayoutOptions>
+            <LayoutOption Type="Notes">
+              <Values>
+                <Value Name="HeaderText1" Value="Examination" />
+              </Values>
+            </LayoutOption>
+            <LayoutOption Type="Layout">
+              <Values />
+            </LayoutOption>
+          </LayoutOptions>
+        </BlockLayout>
+        <BlockLayout BlockType="Picture" BlockName="Picture">
+          <LayoutOptions>
+            <LayoutOption Type="Picture">
+              <Values />
+            </LayoutOption>
+            <LayoutOption Type="Layout">
+              <Values />
+            </LayoutOption>
+          </LayoutOptions>
+        </BlockLayout>
+      </Children>
+      <LayoutOptions>
+        <LayoutOption Type="Chapter">
+          <Values>
+            <Value Name="HeaderText1" Value="Examination" />
+          </Values>
+        </LayoutOption>
+        <LayoutOption Type="Layout">
+          <Values />
+        </LayoutOption>
+      </LayoutOptions>
+    </BlockLayout>
+    <BlockLayout BlockType="Chapter" BlockSubType="Start" BlockName="Chapter">
+      <Children>
+        <BlockLayout BlockType="Notes" BlockName="Notes">
+          <LayoutOptions>
+            <LayoutOption Type="Notes">
+              <Values>
+                <Value Name="HeaderText1" Value="Findings" />
+              </Values>
+            </LayoutOption>
+            <LayoutOption Type="Layout">
+              <Values />
+            </LayoutOption>
+          </LayoutOptions>
+        </BlockLayout>
+      </Children>
+      <LayoutOptions>
+        <LayoutOption Type="Chapter">
+          <Values>
+            <Value Name="HeaderText1" Value="Findings" />
+          </Values>
+        </LayoutOption>
+        <LayoutOption Type="Layout">
+          <Values />
+        </LayoutOption>
+      </LayoutOptions>
+    </BlockLayout>
+    <BlockLayout BlockType="Chapter" BlockSubType="Start" BlockName="Chapter">
+      <Children>
+        <BlockLayout BlockType="Notes" BlockName="Notes">
+          <LayoutOptions>
+            <LayoutOption Type="Notes">
+              <Values>
+                <Value Name="HeaderText1" Value="Summary" />
+              </Values>
+            </LayoutOption>
+            <LayoutOption Type="Layout">
+              <Values />
+            </LayoutOption>
+          </LayoutOptions>
+        </BlockLayout>
+      </Children>
+      <LayoutOptions>
+        <LayoutOption Type="Chapter">
+          <Values>
+            <Value Name="HeaderText1" Value="Examination Summary" />
+          </Values>
+        </LayoutOption>
+        <LayoutOption Type="Layout">
+          <Values />
+        </LayoutOption>
+      </LayoutOptions>
+    </BlockLayout>
+    <BlockLayout BlockType="Chapter" BlockSubType="Start" BlockName="Chapter">
+      <Children>
+        <BlockLayout BlockType="Notes" BlockName="Notes">
+          <LayoutOptions>
+            <LayoutOption Type="Notes">
+              <Values>
+                <Value Name="HeaderText1" Value="Glossary of Terms" />
+              </Values>
+            </LayoutOption>
+            <LayoutOption Type="Layout">
+              <Values />
+            </LayoutOption>
+          </LayoutOptions>
+        </BlockLayout>
+      </Children>
+      <LayoutOptions>
+        <LayoutOption Type="Chapter">
+          <Values>
+            <Value Name="HeaderText1" Value="Glossary" />
+          </Values>
+        </LayoutOption>
+        <LayoutOption Type="Layout">
+          <Values />
+        </LayoutOption>
+      </LayoutOptions>
+    </BlockLayout>
+    <BlockLayout BlockType="Document" BlockSubType="End" Name="End">
+      <LayoutOptions>
+        <LayoutOption Type="Document">
+          <Values>
+            <Value Name="ExportType" Value="Pdf" />
+          </Values>
+        </LayoutOption>
+      </LayoutOptions>
+    </BlockLayout>
+  </Content>
+</RBReport>
